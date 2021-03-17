@@ -9,4 +9,9 @@
 
   <string name="first_fragment_title">Technovation test project</string>
   <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+  <!-- TODO: Remove or change this placeholder text -->
+  <string name="camera_fragment_text">TODO: Add camera functinality here</string>
+  <string name="camera_fragment_label">Camera Fragment</string>
+  <string name="camera_button_name">Open Camera</string>
+  <string name="home_button_text">Go back home</string>
 </resources>
